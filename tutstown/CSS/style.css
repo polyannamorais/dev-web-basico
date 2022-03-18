@@ -1,0 +1,49 @@
+body {
+    background-color: #FAF8DA;
+    font-family: Arial;
+    text-align: center;
+    color:  #205D76;
+    margin: 0;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+img {
+    width: 65%;
+}
+
+.menor {
+    width: 200px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: justify;
+}
+
+ul {
+    cursor: pointer;
+}
+
+.diferente {
+    color: #EA6E2F;
+}
+
+table {
+    padding-left: 37%;
+}
+
+li {
+    font-size: 20px;
+    color: #FFC122;
+    text-align: justify;
+}
+
+footer{
+    background-color: #FFC122;
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 2px;
+}
