@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="200" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+	<g>
+		<circle fill="#62D4D4" stroke="#62D4D4" stroke-width="12.1159" stroke-miterlimit="10" cx="50" cy="50" r="39.3"/>
+		<polygon fill="#9A916F" points="41.9,11.5 44.9,13 48,14.4 41.9,14.4 35.7,14.4 38.8,13 	"/>
+		<rect x="28.2" y="31.8" fill="#FFC122" width="44.6" height="51.8"/>
+
+			<polygon fill="#664D25" stroke="#664D25" stroke-width="4.708198e-02" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			72.8,31.9 28.2,31.9 35.9,21.9 65.1,21.9 	"/>
+		<rect x="28.2" y="31.8" fill="#FFAAA8" width="44.6" height="3.3"/>
+		<rect x="35.8" y="14.3" fill="#664D25" width="12.2" height="10.9"/>
+		<rect x="53.6" y="14.6" fill="#664D25" width="12" height="10.9"/>
+		<polygon fill="#9A916F" points="59.6,11.8 62.6,13.2 65.6,14.6 59.6,14.6 53.6,14.6 56.6,13.2 	"/>
+		<path fill="#FFFFFF" d="M40.7,40c2.2,0,4,1.9,4,4.2v6.9h-8.1l0.1-6.9C36.6,41.9,38.4,40,40.7,40L40.7,40"/>
+		<g>
+			<path fill="#A2A242" d="M47,43.5v2.4H34.4v-2.4c0-3.3,2.8-5.8,6.3-5.8C44.2,37.7,47,40.3,47,43.5z"/>
+		</g>
+		<path fill="#FFFFFF" d="M60,40.2c2.2,0,4,1.9,4,4.2v6.9h-8.1l0.1-6.9C56,42.1,57.8,40.2,60,40.2L60,40.2"/>
+		<g>
+			<path fill="#A2A242" d="M66.3,43.6V46H53.7v-2.4c0-3.3,2.8-5.8,6.3-5.8C63.5,37.8,66.3,40.4,66.3,43.6z"/>
+		</g>
+		<rect x="39.4" y="16.2" fill="#FFFFFF" width="5" height="4.3"/>
+		<rect x="57.3" y="16.2" fill="#FFFFFF" width="5" height="4.3"/>
+		<g>
+			<path fill="#FF5774" d="M56.9,81v2.6H43.9V81c0-6.4,2-12.8,6.5-12.8C54.9,68.2,56.9,74.8,56.9,81z"/>
+		</g>
+		<path fill="#FFFFFF" d="M40.7,55.5c2.2,0,4,1.9,4,4.2v6.9h-8.1l0.1-6.9C36.6,57.4,38.4,55.5,40.7,55.5L40.7,55.5"/>
+		<g>
+			<path fill="#A2A242" d="M47,58.9v2.4H34.4v-2.4c0-3.3,2.8-5.8,6.3-5.8C44.2,53.1,47,55.7,47,58.9z"/>
+		</g>
+		<path fill="#FFFFFF" d="M60,55.7c2.2,0,4,1.9,4,4.2v6.9h-8.1l0.1-6.9C56,57.5,57.8,55.7,60,55.7L60,55.7"/>
+		<g>
+			<path fill="#A2A242" d="M66.3,59.1v2.4H53.7v-2.4c0-3.3,2.8-5.8,6.3-5.8C63.5,53.3,66.3,55.9,66.3,59.1z"/>
+		</g>
+	</g>
+</svg>
